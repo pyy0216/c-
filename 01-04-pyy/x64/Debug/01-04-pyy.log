@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\31891\source\repos\01-04-pyy\01-04-pyy\encryption.h(14,13): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  01-04-pyy.vcxproj -> C:\Users\31891\source\repos\01-04-pyy\x64\Debug\01-04-pyy.exe
